@@ -4,9 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
-
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mtez09/montez-carter.github.io/blob/master/Projects/Linear_Regression_Project%5B1%5D.ipynb)
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
